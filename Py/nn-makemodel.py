@@ -18,7 +18,7 @@ print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('
 
 #  1. READ FILES
 print(Fore.RED + "1. READ FILES" + Style.RESET_ALL)
-dirtrain = "DREAMCHALLENGE_CTD2/NN_TF_02"
+dirtrain = "Data/NN_TF_02"
 ftrain = dirtrain + "/train_pubmed.csv"
 # ftrain = dirtrain + "/train_pubmed.csv"
 print("Train file: ",ftrain)

@@ -1,0 +1,10 @@
+method	method_id
+training.DA	M1
+training.demand_encode	M2
+training.demand_string.directed_activationInhibition	M3
+training.demand_string.directed_experimental	M4
+training.demand_string.undirected_binding_CombScore_0095	M5
+training.demand_string.undirected_coexpression_0095	M6
+training.lm	M7
+training.Ranking_PorCmp_Sensitivity_drugable_genome_normalized	M8
+training.ridge	M9

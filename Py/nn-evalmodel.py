@@ -9,7 +9,7 @@ import numpy as np
 
 #  1. LOADING MODEL
 print(Fore.RED + "1. LOADING MODEL" + Style.RESET_ALL)
-folder = "DREAMCHALLENGE_CTD2/NN_TF_02"
+folder = "Data/NN_TF_02"
 ruta = folder + '/models/nn-ch3m-pubmed.h5'
 model = tf.keras.models.load_model(ruta)
 # Show the model architecture
